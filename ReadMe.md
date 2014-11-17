@@ -1,13 +1,13 @@
 Prototype:
 —————————
-The prototype is made out of oak wood, hinges, eye hooks, steel rods,
+ * The prototype is made out of oak wood, hinges, eye hooks, steel rods,
 and string. We tested the prototype by tying a total of twenty-five
 pounds in sand bags onto the chair. By pulling the strings which are
 tied onto the eye hooks the top of the chair moved up, bending the
 hinges. The prototype took a total of three days to assemble.
 
 The Budget:$75/person, $375 total
-—————————————————————————————————
+———————————————————————
  * Prototype $32
  * 2 Cranks $36
  * Square Tubes $64.84
@@ -24,10 +24,10 @@ The Budget:$75/person, $375 total
 We still need to get padding for the rebar.
 
 Money Each Team Member has Spent:
-————————————————————————————————
-Mackenzie $145.51
-McCartney $100.63
-Cameron $32
+————————————————————————
+ * Mackenzie $145.51
+ * McCartney $100.63
+ * Cameron $32
 
 Progress:
 ————————
