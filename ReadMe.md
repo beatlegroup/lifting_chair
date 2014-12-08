@@ -11,7 +11,11 @@ Design Requirements:
  * Easily fit in a Firetruck
  * Portable
 
-The Function:
+Design Alternatives:
+
+ * We had at first debated using a hammock like solution but vetoed that idea due to difficulty in finding a was to shift the system under the person. Another alternative was to slip a backboard under the individuals torso and then use a scissor jack so that they are sitting upright. But from there there would still be much difficulty sit standing up the person. Our final design differs from the prototype because it has handles. We had originally planned on having scissor jacks on the four corners of the bottom of the chair to lift it up.
+
+Overview of Process:
 
  * We have decided to make the skeleton of the chair two separate pieces. By having the chair be made up of two separate side pieces, the frames can be easily slid underneath the obese body. We deducted that it would be easiest having two pieces because it would be difficult to lift the entire body to slide a structure underneath. The skeleton has four bars, each is attached to another with a hinge to make a joint. The joint allows us to move the top bars up to resemble a chair. Bars are sticking out of the bars perpendicular to the floor when the structure is lying down. These bars each support a portion of the bodyweight on the sides of the body. With enough bars all of the weight should be supported. Because there are two pieces we need to attach them. Adjustable bars are attached to the tops of the bars. They need to be adjustable to fit the varying widths of individuals being assisted.
 
