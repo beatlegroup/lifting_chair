@@ -1,3 +1,8 @@
+Abstract/ Summary:
+
+ * 
+
+
 Background/ Client Info:
 
  * Our client is Micah Holmes at the Longmont Fire Department. The fire fighters are struggling with assisting obese individuals that have fallen and cannot get up by themselves. Due to the heavy weight the Firefighters are acquiring long term injuries. Those who have fallen also tend to fall in odd locations that add onto the already difficult task.
@@ -33,7 +38,7 @@ The Budget:$75/person, $375 total
  * 2 Cranks $52.54
  * Square Tubes $64.84
  * Hitch Pin $23.88
- * Poles with Holes $70.06 we might return two of the poles
+ * Poles with Holes $58
  * Rebar $15.84
  * Hinges $22.43
  * Rope $10.50
@@ -41,13 +46,13 @@ The Budget:$75/person, $375 total
  * Handles $9.06
  * Padding $10.82
  * Poster $35
- * Total $350.67
+ * Total $315
 
 
 
 Money Each Team Member has Spent:
 
- * Mackenzie $149.51
+ * Mackenzie $114.48
  * McCartney $132.45
  * Cameron $34.72
 
@@ -79,3 +84,7 @@ Calculations:
 Testing:
 
  * We first started by using the chair for smaller weights. First we tested the system with 115 pounds,then 170 pounds, and finally 240 pounds. We have not yet tested the chair with the average weight of an obese individual but plan on doing so by using sand bags or some form of weight. We did not try living the chair with the 240 pound individual due to the team members not having the strength of the average fire fighter to do so.
+
+Conclusion:
+
+ * 
