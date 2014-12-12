@@ -1,7 +1,6 @@
 Abstract/ Summary:
 
- * 
-
+ * A strangely common problem obese people have is getting up when they have fallen over. As a team we addressed the problem by making a device to help firefighters get the people in areas where they can help themselves. This device, which we named The Lifting Chair, slides under fallen people and sits them in an upright position from which the firefighters can use the handles attached to move the immobilized person to an area, such as a couch or chair, where they can start to function on their own again.
 
 Background/ Client Info:
 
@@ -87,4 +86,4 @@ Testing:
 
 Conclusion:
 
- * 
+ * In conclusion, our group decided to focus on finding a way to easily get a device underneath the downed person, as that was one of the largest problems to overcome. We did that by building a stretcher-like chair that separates and connects back together on either side of the person then uses a wench to crank the person into a sitting position. Adjustments that need to be made are in the hinges, which need to be stronger so they don’t wiggle or bend to the sides, and so that they fit the frame better. Also, the connecting bars can be difficult to assemble so the edges need to be sanded down and they need to fit in the bars used to attach the two halves of the frame better. The only other thing to change would be the padding which would look better if they were custom made blocks of foam.
